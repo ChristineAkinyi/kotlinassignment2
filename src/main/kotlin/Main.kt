@@ -13,8 +13,8 @@ fun printName(name: String){
 fun modulus(num1: Int, num2:Int): Int{
     var num1 = 6
     var num2 = 9
-    var modulus = num1 % num2
-    return modulus
+    var return = num1 % num2
+    return return
 }
 
 fun addFourNumbers(num1: Int, num2: Int, num3: Int, num4: Int): Int{
